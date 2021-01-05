@@ -1,5 +1,7 @@
 import timeit
 
+#oke
+
 #Jumlah iterasi = 1juta
 jumlahIterasi = 1000000
 forLoop = """ 
