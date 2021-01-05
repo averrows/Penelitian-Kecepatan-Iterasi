@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programming\\Github Clones\\Penelitian-Kecepatan-Iterasi\\C#\\C#.csproj": {}
+  },
+  "projects": {
+    "D:\\Programming\\Github Clones\\Penelitian-Kecepatan-Iterasi\\C#\\C#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Github Clones\\Penelitian-Kecepatan-Iterasi\\C#\\C#.csproj",
+        "projectName": "C#",
+        "projectPath": "D:\\Programming\\Github Clones\\Penelitian-Kecepatan-Iterasi\\C#\\C#.csproj",
+        "packagesPath": "C:\\Users\\Averrous Saloom\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Github Clones\\Penelitian-Kecepatan-Iterasi\\C#\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Averrous Saloom\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

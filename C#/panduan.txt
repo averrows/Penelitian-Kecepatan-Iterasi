@@ -1,0 +1,3 @@
+Untuk menjalankan bahasa C# beberapa hal harus dilakukan karena ia sangat dependen dengan .NET, 
+ikuti saja link berikut:
+https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code
