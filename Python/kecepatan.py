@@ -1,6 +1,6 @@
 import timeit
 
-#oke
+#tes123
 
 #Jumlah iterasi = 1juta
 jumlahIterasi = 1000000
