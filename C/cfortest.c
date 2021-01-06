@@ -8,7 +8,6 @@ int main()
     int i;
     for (i = 1; i <= 100000; ++i)
     {
-    printf("%d \n", i);
     }
 	t = clock() - t; 
 	double time_taken = ((double)t)/(CLOCKS_PER_SEC/1000);

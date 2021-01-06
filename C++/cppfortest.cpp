@@ -9,7 +9,6 @@ int main()
     auto start = high_resolution_clock::now(); 
 
     for (int i = 1; i <= 100000; ++i) {
-    cout << i << endl;
     }
 
 	auto stop = high_resolution_clock::now(); 

@@ -1,17 +1,17 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 
 
-public class Example
+public class Csharpwhiletest
 {
     public static void Main()
     {
         Stopwatch stopwatch = new Stopwatch();
 
         stopwatch.Start();
-        for (int i = 0; i < 1000000; i++)
-        {
-            
+        int x = 0;
+        while(x<100000){
+            x++;
         }
         stopwatch.Stop();
 
